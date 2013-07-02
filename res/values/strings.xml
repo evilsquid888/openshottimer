@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Open Shot Timer</string>
+<string name="T_BUZZ">Buzz!</string>
+<string name="T_END">End</string>
+<string name="T_QUIT">Quit</string>
+<string name="T_FOO">asdasdasd</string>
+<string name="T_SHOT_NUM_HEADER">Shot #</string>
+<string name="T_SHOT_TIME">Shot Time</string>
+<string name="T_SHOT_SPLIT">Split</string>
+</resources>
